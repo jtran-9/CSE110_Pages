@@ -1,7 +1,7 @@
 # Justin's User Page
 
 ## As a programmer
-To describe my experience as a programmer, I have on many course projects up to this point and have also worked on a few projects outside of the classroom. I have worked in **C++, Java,** and **Python** and also learned **HTML, CSS,** and **JS**. I have worked on creating neural networks before that can be trained and be used to classify new test images. This was related to this [experiment](http://ufldl.stanford.edu/housenumbers/) The code is shown below...
+To describe my experience as a programmer, I have on many course projects up to this point and have also worked on a few projects outside of the classroom. I have worked in **C++, Java,** and **Python** and also learned **HTML, CSS,** and **JS**. If you want to know my favoriate programming language, then visit [this page](README.md). I have worked on creating neural networks before that can be trained and be used to classify new test images. This was related to this [experiment](http://ufldl.stanford.edu/housenumbers/) The code is shown below...
 ```
 class Net(nn.Module):
     def __init__(self, n_labels=5):
@@ -35,3 +35,32 @@ print(net)
 ```
 
 ## As a person
+A few things that I like to do are shown in the list below...
+- Snowboarding
+- Drawing
+- Swimming
+- Cooking / Baking
+
+I also like watching JoJo's Bizarre Adventure and one quote that stood out would be...
+> Nyohoho
+
+Below is a picture of the character that said this quote, Gyro:
+![Gyro](https://static.wikia.nocookie.net/jjba/images/b/bf/Gyro.jpg/revision/latest?cb=20150613223034)
+
+I have three favorite colors which can be ranked as follows...
+1. Pastel Pink
+2. Sky Blue
+3. Red
+
+## Styling Requirements
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External links
+- [x] Section links
+- [x] Relative links
+- [x] Ordered list
+- [x] Unordered list
+- [x] Task list
+- [x] Images
