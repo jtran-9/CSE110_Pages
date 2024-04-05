@@ -1,5 +1,8 @@
 # Justin's User Page
 
+## Picture of me :D
+![me](images/IMG_5084.JPG)
+
 ## As a programmer
 To describe my experience as a programmer, I have on many course projects up to this point and have also worked on a few projects outside of the classroom. I have worked in **C++, Java,** and **Python** and also learned **HTML, CSS,** and **JS**. If you want to know my favoriate programming language, then visit [this page](README.md). I have worked on creating neural networks before that can be trained and be used to classify new test images. This was related to this [experiment](http://ufldl.stanford.edu/housenumbers/) The code is shown below...
 ```
@@ -45,7 +48,7 @@ I also like watching JoJo's Bizarre Adventure and one quote that stood out would
 > Nyohoho
 
 Below is a picture of the character that said this quote, Gyro:
-![Gyro](https://static.wikia.nocookie.net/jjba/images/b/bf/Gyro.jpg/revision/latest?cb=20150613223034)
+![Gyro](images/Gyro.JPG)
 
 I have three favorite colors which can be ranked as follows...
 1. Pastel Pink
